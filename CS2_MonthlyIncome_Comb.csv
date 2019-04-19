@@ -1,0 +1,301 @@
+ID,Attrition,AgeCat,Age,Educ_Field,Education,EducationField,BusinessTravel,JobLevel,JobRole,Department,StockOptionLevel,OverTime,PerformanceRating,PercentSalaryHike,MonthlyRate,DailyRate,HourlyRate,DistanceFromHome,EESatisfaction,EnvironmentSatisfaction,JobInvolvement,JobSatisfaction,RelationshipSatisfaction,WorkLifeBalance,TrainingTimesLastYear,Gender,MaritalStatus,OtherCoExp,NumCompaniesWorked,PriorExpYrs,TotalWorkingYears,ServiceCat,YearsAtCompany,PromoLast3,YearsSinceLastPromotion,YearsInCurrentRole,YearsWithCurrManager,Over18,StandardHours,EmployeeCount,EmployeeNumber,Rand
+871,No,40-45,43,4_Life Sciences,4,Life Sciences,Frequently,2,Sales Executive,Sales,1,No,4,20,19246,1422,92,2,2.8,1,3,4,3,3,5,Male,Married,No,1,0,7,5-8,7,No,7,7,7,Y,80,1,1849,0.341243808
+872,No,30-35,33,1_Life Sciences,1,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,No,3,18,17241,461,53,13,2.6,2,3,4,1,3,4,Female,Single,Yes,3,2,5,3-5,3,No,0,2,2,Y,80,1,995,0.126236038
+873,Yes,50+,55,4_Marketing,4,Marketing,Rarely,4,Sales Executive,Sales,0,Yes,3,17,9277,267,85,13,2.6,1,4,3,3,2,2,Male,Single,Yes,6,5,24,10+,19,Yes,3,7,8,Y,80,1,1372,0.343292971
+874,No,35-40,36,4_Life Sciences,4,Life Sciences,None,1,Laboratory Technician,Research & Development,0,No,4,22,9238,1351,66,9,2.4,1,4,2,2,3,3,Male,Married,No,1,0,5,5-8,5,No,0,4,2,Y,80,1,1949,0.36757402
+875,No,25-30,27,3_Other,3,Other,Rarely,1,Laboratory Technician,Research & Development,2,No,3,11,16290,1302,67,19,2.2,4,2,1,1,3,3,Male,Divorced,No,1,0,7,5-8,7,No,0,7,7,Y,80,1,1619,0.346552895
+876,Yes,35-40,39,3_Technical Degree,3,Technical Degree,Rarely,2,Sales Representative,Sales,1,No,3,14,3335,895,56,5,3.6,4,3,4,3,4,6,Male,Married,Yes,3,18,19,1-3,1,No,0,0,0,Y,80,1,42,0.34490137
+877,No,30-35,33,2_Marketing,2,Marketing,None,2,Sales Executive,Sales,1,No,3,13,15480,750,95,22,2.6,3,3,2,1,4,2,Male,Married,Yes,0,1,8,5-8,7,No,0,7,7,Y,80,1,160,0.347202349
+878,Yes,<25,21,2_Life Sciences,2,Life Sciences,Frequently,1,Laboratory Technician,Research & Development,0,No,4,20,25308,251,45,10,2,1,2,3,3,1,2,Female,Single,No,1,0,2,1-3,2,Yes,2,2,2,Y,80,1,1279,0.238717755
+879,No,30-35,30,3_Life Sciences,3,Life Sciences,Frequently,1,Research Scientist,Research & Development,3,No,4,25,22310,1312,96,23,2,1,1,3,3,2,2,Male,Divorced,No,1,0,10,10+,10,No,0,7,9,Y,80,1,159,0.353562207
+880,No,50+,51,2_Technical Degree,2,Technical Degree,Rarely,4,Manufacturing Director,Research & Development,0,No,3,16,24439,1405,82,11,2.4,4,2,2,2,2,1,Female,Single,Yes,3,24,29,5-8,5,No,0,2,3,Y,80,1,1367,0.35451147
+881,Yes,45-50,46,3_Marketing,3,Marketing,Rarely,3,Sales Executive,Sales,1,No,3,11,15986,377,52,9,2.6,1,3,4,1,4,1,Male,Divorced,Yes,4,21,28,5-8,7,No,4,7,3,Y,80,1,1457,0.355365078
+882,No,40-45,40,4_Life Sciences,4,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,1,No,4,22,6762,329,88,1,2.6,2,3,2,3,3,3,Male,Married,Yes,3,3,7,3-5,4,No,0,2,3,Y,80,1,1361,0.491796192
+883,No,25-30,29,2_Medical,2,Medical,Rarely,2,Sales Executive,Sales,1,No,3,14,3487,1176,62,3,2.2,2,3,3,1,2,5,Female,Married,No,1,0,6,5-8,6,Yes,1,0,2,Y,80,1,690,0.750026228
+884,No,25-30,27,1_Marketing,1,Marketing,Frequently,2,Sales Executive,Sales,1,No,3,19,24008,829,84,8,3,3,3,4,2,3,3,Male,Married,Yes,0,1,5,3-5,4,Yes,1,2,1,Y,80,1,800,0.359219515
+885,No,25-30,29,3_Medical,3,Medical,Rarely,2,Sales Executive,Sales,2,No,3,19,3687,1210,78,2,2,1,2,2,2,3,2,Male,Married,Yes,2,10,10,0-1,0,No,0,0,0,Y,80,1,366,0.360114058
+886,Yes,<25,22,1_Life Sciences,1,Life Sciences,Rarely,2,Manufacturing Director,Research & Development,1,Yes,3,19,10022,617,34,3,2.6,2,3,3,1,4,3,Female,Married,Yes,0,1,4,3-5,3,No,0,2,2,Y,80,1,926,0.264086254
+887,No,25-30,29,1_Life Sciences,1,Life Sciences,Rarely,2,Healthcare Representative,Research & Development,2,No,3,17,21143,726,93,29,3,4,1,3,4,3,3,Male,Divorced,Yes,8,4,11,5-8,7,Yes,1,0,6,Y,80,1,1859,0.361920089
+888,No,30-35,34,5_Life Sciences,5,Life Sciences,Rarely,2,Manufacturing Director,Research & Development,1,No,3,14,4187,167,32,8,2.4,2,3,1,3,3,3,Female,Divorced,Yes,3,7,7,0-1,0,No,0,0,0,Y,80,1,775,0.675140197
+889,No,30-35,31,4_Life Sciences,4,Life Sciences,Rarely,2,Laboratory Technician,Research & Development,1,No,4,22,9528,655,48,7,3.4,4,3,4,4,2,3,Male,Divorced,Yes,3,3,10,5-8,7,Yes,1,7,7,Y,80,1,76,0.362945868
+890,No,35-40,35,4_Technical Degree,4,Technical Degree,Rarely,1,Human Resources,Human Resources,0,No,3,17,7108,528,100,8,2.4,3,3,3,2,1,2,Male,Single,Yes,1,1,6,5-8,5,Yes,1,4,4,Y,80,1,1164,0.364188422
+891,No,40-45,40,3_Life Sciences,3,Life Sciences,Rarely,2,Research Scientist,Research & Development,0,No,3,13,22455,523,98,2,3.2,3,3,4,3,3,4,Male,Single,No,1,0,9,8-10,9,No,8,8,8,Y,80,1,1346,0.364592749
+892,No,30-35,30,4_Technical Degree,4,Technical Degree,Rarely,3,Sales Executive,Sales,1,No,3,12,17799,1288,33,29,2.6,3,3,2,2,3,3,Male,Married,Yes,3,5,9,3-5,4,Yes,1,2,3,Y,80,1,1568,0.364788196
+893,Yes,45-50,46,2_Medical,2,Medical,Rarely,3,Sales Executive,Sales,0,No,3,16,13596,669,64,9,3.2,3,2,4,4,3,3,Male,Single,No,1,0,9,8-10,9,No,4,8,7,Y,80,1,118,0.364926468
+894,No,25-30,27,1_Medical,1,Medical,Frequently,2,Sales Executive,Sales,2,Yes,4,20,16673,1410,71,3,3.4,4,4,4,2,3,3,Female,Divorced,No,1,0,6,5-8,6,No,0,5,4,Y,80,1,714,0.365964367
+895,No,45-50,49,4_Life Sciences,4,Life Sciences,Rarely,3,Healthcare Representative,Research & Development,2,No,3,14,20948,1490,35,7,2.6,3,3,2,2,3,3,Male,Divorced,Yes,3,21,29,8-10,8,No,0,7,7,Y,80,1,1484,0.649987113
+896,No,45-50,46,2_Life Sciences,2,Life Sciences,Rarely,3,Manufacturing Director,Research & Development,1,No,3,14,19989,706,82,2,3.2,4,3,4,3,2,4,Male,Divorced,Yes,3,3,12,8-10,9,No,4,8,7,Y,80,1,1857,0.369012912
+897,Yes,30-35,33,3_Life Sciences,3,Life Sciences,Rarely,3,Sales Executive,Sales,0,Yes,4,20,10092,211,74,16,2,1,3,1,3,2,2,Female,Single,Yes,2,11,11,0-1,0,No,0,0,0,Y,80,1,1758,0.369541661
+898,No,40-45,42,1_Life Sciences,1,Life Sciences,None,4,Manager,Research & Development,0,Yes,3,13,26582,495,37,2,3,3,3,3,4,2,3,Male,Married,Yes,0,1,21,10+,20,Yes,2,8,10,Y,80,1,1334,0.369972975
+899,No,30-35,34,2_Medical,2,Medical,Rarely,2,Sales Executive,Sales,0,No,3,12,23553,507,66,15,3,3,3,1,4,4,6,Female,Single,No,1,0,10,10+,10,No,9,8,6,Y,80,1,1356,0.035544937
+900,No,35-40,36,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,1,No,3,13,11868,329,96,2,3,4,3,3,2,3,3,Female,Married,Yes,4,4,6,1-3,2,Yes,2,2,2,Y,80,1,501,0.980456817
+901,No,25-30,27,1_Medical,1,Medical,Rarely,1,Laboratory Technician,Research & Development,1,No,3,12,16632,591,40,2,2.6,1,3,2,4,3,3,Male,Married,Yes,9,4,6,1-3,2,Yes,2,2,2,Y,80,1,7,0.373065055
+902,No,40-45,44,5_Marketing,5,Marketing,Frequently,2,Sales Executive,Sales,1,No,3,12,9282,383,79,1,2.4,1,3,3,3,2,4,Female,Married,Yes,7,10,11,1-3,1,No,0,0,0,Y,80,1,1481,0.221738477
+903,No,45-50,48,4_Life Sciences,4,Life Sciences,Rarely,2,Sales Executive,Sales,1,No,3,14,13693,492,96,16,3,3,3,3,3,3,2,Female,Divorced,Yes,8,10,18,8-10,8,No,7,7,7,Y,80,1,1557,0.37483944
+904,No,40-45,40,4_Life Sciences,4,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,2,No,3,19,4060,543,83,1,2.6,1,3,4,3,2,3,Male,Married,Yes,8,7,8,1-3,1,No,0,0,0,Y,80,1,2012,0.592116425
+905,No,45-50,45,2_Life Sciences,2,Life Sciences,Rarely,4,Manager,Sales,1,No,3,13,5404,1234,90,11,3.4,4,3,4,2,4,4,Female,Married,Yes,3,17,26,8-10,9,Yes,1,3,1,Y,80,1,1045,0.135235506
+906,No,30-35,33,3_Life Sciences,3,Life Sciences,Frequently,2,Sales Executive,Sales,1,No,3,17,13401,970,30,7,3,4,3,2,3,3,3,Female,Married,Yes,0,1,4,3-5,3,No,0,2,2,Y,80,1,1114,0.531599947
+907,No,45-50,46,3_Medical,3,Medical,Frequently,3,Healthcare Representative,Research & Development,1,Yes,3,13,3142,638,40,1,2.2,3,2,1,3,2,5,Male,Married,Yes,2,11,21,10+,10,No,9,9,5,Y,80,1,124,0.445436171
+908,No,35-40,37,2_Medical,2,Medical,Rarely,2,Manufacturing Director,Research & Development,2,No,3,16,23177,1192,61,5,3.2,4,3,4,3,2,2,Male,Divorced,Yes,7,2,8,5-8,6,No,0,2,4,Y,80,1,460,0.379164235
+909,Yes,25-30,28,4_Technical Degree,4,Technical Degree,Rarely,1,Laboratory Technician,Research & Development,0,Yes,3,13,11179,1434,50,5,2.8,3,3,3,3,2,3,Male,Single,No,1,0,2,1-3,2,Yes,2,2,2,Y,80,1,65,0.318086548
+910,No,30-35,32,1_Life Sciences,1,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,No,3,13,15178,827,71,1,3,4,3,1,4,3,2,Male,Single,No,1,0,1,1-3,1,No,0,0,0,Y,80,1,134,0.382412689
+911,No,40-45,43,3_Life Sciences,3,Life Sciences,Rarely,5,Research Director,Research & Development,1,No,3,14,18625,920,96,3,2.6,3,1,4,2,3,2,Male,Married,Yes,3,17,25,8-10,8,No,0,7,7,Y,80,1,1255,0.770749998
+912,No,35-40,38,4_Other,4,Other,Frequently,1,Human Resources,Human Resources,1,Yes,3,11,5224,1444,88,1,2.8,4,3,2,2,3,2,Male,Married,Yes,0,1,7,5-8,6,Yes,1,2,2,Y,80,1,1972,0.388298914
+913,No,40-45,40,2_Life Sciences,2,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,1,No,3,17,25605,616,99,2,2.6,3,3,1,4,2,5,Female,Married,Yes,4,3,7,3-5,4,No,0,3,2,Y,80,1,1802,0.941186103
+914,No,30-35,34,3_Medical,3,Medical,Rarely,3,Manager,Research & Development,0,No,3,12,5615,1354,45,5,2.6,3,2,1,4,3,6,Female,Single,Yes,2,3,14,10+,11,No,5,10,8,Y,80,1,153,0.389730419
+915,No,40-45,41,2_Medical,2,Medical,Rarely,2,Manufacturing Director,Research & Development,0,No,3,14,23371,549,42,7,3,4,3,3,2,3,6,Female,Single,Yes,6,6,8,1-3,2,Yes,2,2,1,Y,80,1,1025,0.71651632
+916,No,<25,23,1_Life Sciences,1,Life Sciences,Rarely,2,Laboratory Technician,Research & Development,0,No,3,14,24812,507,97,20,2.4,1,3,3,2,3,2,Male,Single,Yes,0,1,5,3-5,4,Yes,1,3,2,Y,80,1,1533,0.393198234
+917,No,25-30,28,3_Medical,3,Medical,Rarely,1,Research Scientist,Research & Development,1,No,4,25,12719,1217,67,1,2.6,3,3,1,3,3,3,Female,Married,No,1,0,3,3-5,3,Yes,1,2,2,Y,80,1,1834,0.394750912
+918,No,25-30,26,3_Medical,3,Medical,Rarely,2,Sales Executive,Sales,0,No,3,13,9125,572,46,10,2.8,3,3,4,1,3,4,Male,Single,No,1,0,5,5-8,5,Yes,1,3,2,Y,80,1,1836,0.664213024
+919,No,25-30,28,1_Medical,1,Medical,Rarely,1,Sales Representative,Sales,0,No,4,22,23384,1144,74,10,2.8,4,3,2,2,3,5,Male,Married,No,1,0,1,1-3,1,No,0,0,0,Y,80,1,1056,0.405948317
+920,No,50+,59,3_Medical,3,Medical,Rarely,1,Laboratory Technician,Research & Development,3,Yes,4,20,9964,1324,81,3,2.2,3,4,1,1,2,3,Female,Married,Yes,4,11,12,1-3,1,No,0,0,0,Y,80,1,10,0.399912973
+921,No,30-35,30,1_Marketing,1,Marketing,Rarely,1,Sales Representative,Sales,0,No,3,14,18398,413,57,7,2.6,4,3,2,1,3,3,Male,Single,Yes,0,1,4,3-5,3,Yes,1,2,2,Y,80,1,585,0.400869543
+922,No,35-40,35,1_Life Sciences,1,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,0,No,3,19,4892,1229,36,8,3.8,4,4,4,4,3,2,Male,Married,No,1,0,1,1-3,1,No,0,0,1,Y,80,1,63,0.401438926
+923,Yes,35-40,36,3_Other,3,Other,Rarely,2,Laboratory Technician,Research & Development,1,No,3,14,7858,660,81,15,2.2,1,3,3,2,2,3,Male,Divorced,Yes,7,8,9,1-3,1,No,0,0,0,Y,80,1,1052,0.67428257
+924,No,40-45,42,5_Medical,5,Medical,None,2,Human Resources,Human Resources,1,No,3,16,12858,179,79,2,2.8,4,4,1,1,4,3,Male,Married,Yes,7,6,10,3-5,4,No,0,3,3,Y,80,1,1231,0.404657356
+925,No,50+,54,5_Medical,5,Medical,Rarely,4,Manager,Research & Development,1,No,4,25,18685,584,91,22,2.8,2,3,3,3,3,6,Female,Married,Yes,3,26,36,10+,10,No,4,8,7,Y,80,1,1665,0.405237401
+926,No,40-45,40,4_Life Sciences,4,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,1,Yes,3,13,22495,1171,46,10,3.4,4,4,3,3,3,3,Female,Married,Yes,3,3,10,5-8,7,Yes,1,7,7,Y,80,1,483,0.405259171
+927,No,30-35,32,3_Medical,3,Medical,Rarely,2,Sales Executive,Sales,2,No,3,15,11693,604,56,8,3.6,3,4,4,3,4,4,Male,Married,No,1,0,10,10+,10,No,0,7,8,Y,80,1,1304,0.405554363
+928,No,35-40,38,3_Medical,3,Medical,Rarely,3,Research Director,Research & Development,1,No,3,12,3376,201,99,10,2,2,1,3,1,3,3,Female,Married,Yes,3,2,20,10+,18,Yes,1,16,11,Y,80,1,2015,0.406795433
+929,No,<25,22,2_Medical,2,Medical,None,1,Laboratory Technician,Research & Development,2,Yes,3,13,7324,1123,96,16,3.2,4,4,4,2,2,2,Male,Divorced,No,1,0,1,1-3,1,No,0,0,0,Y,80,1,22,0.369591147
+930,No,30-35,32,2_Life Sciences,2,Life Sciences,Frequently,1,Laboratory Technician,Research & Development,0,No,3,13,11864,1005,79,2,3.2,4,3,4,3,2,2,Male,Single,Yes,0,1,8,5-8,7,Yes,3,7,6,Y,80,1,8,0.429388449
+931,No,30-35,34,3_Life Sciences,3,Life Sciences,None,2,Sales Executive,Sales,1,Yes,3,14,12313,1375,87,10,3.2,4,3,3,3,3,3,Male,Divorced,No,1,0,15,10+,15,No,0,14,7,Y,80,1,1774,0.412167738
+932,No,30-35,32,2_Life Sciences,2,Life Sciences,Rarely,3,Research Director,Research & Development,0,No,3,15,19373,1018,39,3,3.4,3,3,4,4,3,6,Female,Single,Yes,3,3,10,5-8,7,No,7,7,7,Y,80,1,727,0.413332489
+933,No,40-45,41,3_Marketing,3,Marketing,Rarely,3,Sales Executive,Sales,1,No,3,16,19566,645,49,1,2.6,2,4,1,3,3,2,Male,Married,No,1,0,10,10+,10,No,0,7,7,Y,80,1,534,0.177636542
+934,Yes,50+,58,1_Life Sciences,1,Life Sciences,Frequently,1,Laboratory Technician,Research & Development,1,Yes,3,14,13384,781,57,2,3.2,4,2,4,4,2,3,Male,Divorced,Yes,9,2,3,1-3,1,No,0,0,0,Y,80,1,918,0.417056326
+935,Yes,<25,20,3_Technical Degree,3,Technical Degree,Rarely,1,Laboratory Technician,Research & Development,0,No,3,19,13008,129,84,4,2,1,3,1,2,3,2,Male,Single,No,1,0,1,1-3,1,No,0,0,0,Y,80,1,960,0.419498127
+936,Yes,<25,24,3_Medical,3,Medical,Frequently,1,Laboratory Technician,Research & Development,0,Yes,3,11,16998,381,89,9,2.2,2,3,1,3,2,2,Male,Single,Yes,2,4,4,0-1,0,No,0,0,0,Y,80,1,1494,0.422232662
+937,No,45-50,46,4_Medical,4,Medical,Rarely,3,Healthcare Representative,Research & Development,1,No,3,16,12368,644,97,1,2.8,4,3,1,3,3,3,Male,Divorced,Yes,7,13,17,3-5,4,No,0,2,3,Y,80,1,288,0.423070889
+938,Yes,50+,51,4_Life Sciences,4,Life Sciences,Frequently,3,Manufacturing Director,Research & Development,0,No,3,15,25150,1150,53,8,2.6,1,1,4,4,3,2,Male,Single,Yes,2,14,18,3-5,4,No,0,2,3,Y,80,1,179,0.427132914
+939,No,35-40,39,1_Life Sciences,1,Life Sciences,Rarely,2,Research Scientist,Research & Development,0,No,3,13,5340,116,52,24,2.4,1,3,4,1,3,2,Male,Single,Yes,7,11,18,5-8,7,Yes,1,7,7,Y,80,1,2014,0.427991214
+940,No,25-30,28,3_Medical,3,Medical,Rarely,1,Sales Representative,Sales,1,No,3,19,3692,1172,78,3,2.8,2,3,2,4,3,3,Female,Married,No,1,0,1,1-3,1,No,0,0,0,Y,80,1,1875,0.804838934
+941,Yes,40-45,40,4_Life Sciences,4,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,0,No,3,14,21831,676,86,9,2.2,4,3,1,2,1,3,Male,Single,Yes,3,10,15,5-8,5,Yes,1,4,0,Y,80,1,1534,0.920099176
+942,No,35-40,39,3_Medical,3,Medical,Rarely,3,Sales Executive,Sales,1,No,3,11,4658,1462,38,6,3,4,4,3,1,3,3,Male,Married,Yes,2,4,11,5-8,7,No,7,6,6,Y,80,1,1588,0.4583749
+943,No,50+,59,3_Life Sciences,3,Life Sciences,Rarely,3,Sales Executive,Sales,0,No,3,11,2354,1435,99,25,2.2,1,3,1,4,2,3,Female,Single,Yes,7,7,28,10+,21,No,7,16,9,Y,80,1,81,0.431967616
+944,No,25-30,27,4_Life Sciences,4,Life Sciences,Rarely,2,Manufacturing Director,Research & Development,1,No,3,18,4658,1055,47,2,2.6,1,3,4,2,3,2,Female,Married,Yes,0,1,4,3-5,3,Yes,2,2,2,Y,80,1,1027,0.432536632
+945,No,<25,18,3_Medical,3,Medical,Rarely,1,Sales Representative,Sales,0,No,3,12,9724,812,69,10,2.6,4,2,3,1,3,2,Female,Single,No,1,0,0,0-1,0,No,0,0,0,Y,80,1,411,0.433789582
+946,No,25-30,29,1_Life Sciences,1,Life Sciences,Frequently,2,Healthcare Representative,Research & Development,1,No,3,19,24483,995,87,2,3.2,1,3,4,4,4,0,Male,Divorced,No,1,0,6,5-8,6,Yes,1,4,3,Y,80,1,1590,0.434132851
+947,Yes,<25,21,1_Marketing,1,Marketing,Rarely,1,Sales Representative,Sales,0,No,3,13,4567,337,31,7,2.4,2,3,2,2,3,3,Male,Single,No,1,0,1,1-3,1,Yes,1,0,0,Y,80,1,1780,0.436560197
+948,No,25-30,26,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,2,No,4,22,3032,1349,90,23,2.2,1,3,4,2,1,3,Female,Divorced,No,1,0,3,3-5,3,No,0,2,2,Y,80,1,560,0.475176238
+949,Yes,25-30,26,4_Life Sciences,4,Life Sciences,Frequently,1,Human Resources,Human Resources,1,Yes,3,11,22808,426,58,17,2.4,2,3,3,2,2,2,Female,Divorced,Yes,0,1,8,5-8,7,Yes,1,7,0,Y,80,1,608,0.438502262
+950,Yes,45-50,47,2_Life Sciences,2,Life Sciences,Frequently,2,Sales Executive,Sales,0,Yes,3,12,10339,719,77,27,3.2,2,4,3,4,3,2,Female,Single,Yes,4,3,8,5-8,5,Yes,1,4,3,Y,80,1,785,0.828286675
+951,No,40-45,42,4_Technical Degree,4,Technical Degree,None,1,Research Scientist,Research & Development,2,No,4,22,6161,355,38,10,2.6,3,3,3,2,2,1,Male,Married,Yes,3,4,10,5-8,6,Yes,3,3,3,Y,80,1,1854,0.441331691
+952,No,40-45,40,3_Marketing,3,Marketing,Rarely,2,Sales Executive,Sales,1,No,3,14,22217,300,74,26,2.2,3,3,1,2,2,3,Male,Married,Yes,1,1,8,5-8,7,No,7,7,5,Y,80,1,1066,0.962779282
+953,No,35-40,37,3_Other,3,Other,Rarely,2,Healthcare Representative,Research & Development,0,No,3,15,13848,124,35,3,2.4,4,3,2,1,2,3,Female,Single,Yes,3,4,8,3-5,4,No,0,3,1,Y,80,1,1062,0.232602479
+954,No,25-30,27,2_Life Sciences,2,Life Sciences,Frequently,1,Laboratory Technician,Research & Development,0,Yes,3,14,19826,1297,53,5,3.2,4,3,4,3,2,3,Female,Single,Yes,0,1,6,5-8,5,No,0,4,2,Y,80,1,1850,0.442804238
+955,No,35-40,39,3_Life Sciences,3,Life Sciences,None,2,Laboratory Technician,Research & Development,0,No,3,15,8770,439,70,9,2.6,3,3,2,3,2,2,Male,Single,Yes,9,4,9,5-8,5,No,0,4,3,Y,80,1,1132,0.446215824
+956,No,45-50,45,3_Life Sciences,3,Life Sciences,Rarely,3,Human Resources,Human Resources,2,No,4,21,6595,176,56,4,2.8,3,1,3,3,4,2,Female,Married,Yes,4,4,9,5-8,5,No,0,0,3,Y,80,1,1744,0.447088152
+957,No,50+,56,3_Life Sciences,3,Life Sciences,Rarely,3,Manufacturing Director,Research & Development,0,No,3,11,21698,1400,49,7,2.4,4,1,4,1,2,3,Male,Single,Yes,4,31,37,5-8,6,No,0,4,2,Y,80,1,112,0.287932539
+958,No,30-35,32,4_Medical,4,Medical,None,1,Laboratory Technician,Research & Development,0,No,3,12,11135,1109,69,29,3,4,3,3,2,3,2,Female,Single,Yes,9,2,10,8-10,8,No,7,7,7,Y,80,1,1046,0.052376193
+959,No,40-45,41,2_Life Sciences,2,Life Sciences,Rarely,3,Sales Executive,Sales,0,Yes,3,16,11591,1206,80,23,3.4,4,3,3,4,3,2,Male,Single,Yes,3,19,21,1-3,2,No,0,0,2,Y,80,1,1678,0.450853881
+960,Yes,50+,58,4_Life Sciences,4,Life Sciences,Rarely,5,Research Director,Research & Development,0,Yes,3,12,25761,286,31,2,3.2,4,3,2,4,3,2,Male,Single,Yes,7,9,40,10+,31,No,13,15,8,Y,80,1,825,0.022812192
+961,No,25-30,29,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,No,3,19,22673,665,60,15,2.8,3,3,4,1,3,1,Male,Single,No,1,0,6,5-8,6,Yes,1,5,5,Y,80,1,346,0.014683901
+962,No,40-45,40,2_Technical Degree,2,Technical Degree,Rarely,2,Research Scientist,Research & Development,2,No,3,17,24447,1300,62,24,2.4,1,3,4,1,3,3,Male,Divorced,No,1,0,9,8-10,9,No,4,8,7,Y,80,1,335,0.452207363
+963,No,35-40,38,3_Life Sciences,3,Life Sciences,Frequently,2,Healthcare Representative,Research & Development,1,No,3,15,4284,471,45,12,1.8,1,2,1,3,2,3,Male,Divorced,Yes,2,9,13,3-5,4,Yes,1,3,2,Y,80,1,837,0.948597502
+964,No,35-40,39,3_Human Resources,3,Human Resources,Rarely,2,Human Resources,Human Resources,1,No,3,15,18767,141,44,3,2.6,3,4,2,3,1,3,Female,Married,Yes,9,4,12,8-10,8,Yes,3,3,6,Y,80,1,760,0.991630366
+965,No,25-30,25,1_Medical,1,Medical,Rarely,1,Research Scientist,Research & Development,2,No,3,11,26897,1280,64,7,3.2,4,2,4,3,3,2,Male,Married,No,1,0,2,1-3,2,Yes,2,2,1,Y,80,1,143,0.413116322
+966,No,50+,50,2_Medical,2,Medical,Rarely,5,Research Director,Research & Development,1,Yes,3,12,16701,989,43,7,2.6,2,2,3,4,2,2,Female,Divorced,Yes,5,2,29,10+,27,No,13,3,8,Y,80,1,80,0.456515781
+967,No,25-30,29,4_Medical,4,Medical,Rarely,1,Research Scientist,Research & Development,0,No,3,14,8489,468,73,28,2,4,2,1,2,1,3,Female,Single,No,1,0,5,5-8,5,No,0,4,4,Y,80,1,2054,0.460637702
+968,No,35-40,36,2_Medical,2,Medical,Rarely,3,Sales Executive,Sales,2,No,3,13,3809,164,61,2,2.4,2,2,3,2,3,2,Male,Married,No,1,0,10,10+,10,No,9,9,0,Y,80,1,513,0.461535783
+969,No,50+,50,3_Medical,3,Medical,Frequently,4,Manager,Research & Development,1,No,4,22,9490,1421,30,2,2.8,4,3,1,3,3,3,Female,Married,Yes,2,30,32,1-3,2,Yes,2,2,2,Y,80,1,1215,0.46258839
+970,Yes,25-30,26,4_Medical,4,Medical,Rarely,1,Laboratory Technician,Research & Development,1,Yes,3,13,14180,1449,45,16,2.6,1,3,2,4,3,2,Male,Divorced,Yes,2,2,5,3-5,3,No,0,2,2,Y,80,1,394,0.562673322
+971,No,25-30,27,3_Marketing,3,Marketing,Rarely,2,Sales Executive,Sales,0,No,3,14,5099,954,44,9,3,4,3,4,1,3,5,Male,Single,No,1,0,7,5-8,7,No,0,7,7,Y,80,1,1965,0.467260226
+972,No,30-35,31,3_Medical,3,Medical,Rarely,2,Healthcare Representative,Research & Development,2,Yes,3,11,17369,616,41,12,3,4,3,4,3,1,2,Female,Married,Yes,0,1,10,8-10,9,No,8,7,5,Y,80,1,961,0.46804571
+973,No,25-30,28,4_Medical,4,Medical,Frequently,1,Laboratory Technician,Research & Development,0,Yes,3,11,6842,791,44,1,3,4,3,3,3,2,2,Male,Single,Yes,0,1,5,3-5,4,No,0,2,2,Y,80,1,1286,0.471350466
+974,No,<25,20,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,No,3,13,11757,959,83,1,3.2,4,2,2,4,4,0,Female,Single,No,1,0,1,1-3,1,No,0,0,0,Y,80,1,657,0.472255895
+975,No,<25,24,1_Medical,1,Medical,Rarely,2,Manufacturing Director,Research & Development,2,No,3,15,24117,1206,41,17,2.8,4,2,3,2,3,6,Female,Divorced,Yes,1,1,5,3-5,4,Yes,3,2,2,Y,80,1,1009,0.474050706
+976,Yes,25-30,29,1_Medical,1,Medical,Rarely,1,Research Scientist,Research & Development,0,Yes,3,13,14961,896,86,18,2.8,3,2,4,3,2,3,Male,Single,No,1,0,4,3-5,4,No,0,3,1,Y,80,1,315,0.474233518
+977,No,45-50,48,3_Life Sciences,3,Life Sciences,Rarely,2,Healthcare Representative,Research & Development,0,No,3,13,13119,277,97,6,2.6,1,2,3,4,3,0,Male,Single,Yes,2,17,19,1-3,2,Yes,2,2,2,Y,80,1,1022,0.475071707
+978,Yes,35-40,39,3_Medical,3,Medical,Rarely,1,Research Scientist,Research & Development,0,No,3,13,22154,360,93,23,2.2,3,3,1,1,3,2,Male,Single,Yes,0,1,6,5-8,5,No,0,2,3,Y,80,1,1310,0.259244285
+979,No,35-40,35,3_Life Sciences,3,Life Sciences,Rarely,3,Manufacturing Director,Research & Development,1,Yes,4,20,23457,607,66,9,2.8,4,2,3,2,3,2,Female,Married,No,1,0,17,10+,17,No,5,14,15,Y,80,1,880,0.475833737
+980,No,45-50,49,2_Medical,2,Medical,Rarely,5,Manager,Research & Development,1,No,3,13,12124,1098,85,4,2.6,1,2,3,3,4,2,Male,Married,Yes,2,22,23,1-3,1,No,0,0,0,Y,80,1,1256,0.476584587
+981,No,35-40,35,4_Life Sciences,4,Life Sciences,Rarely,1,Sales Representative,Sales,2,No,4,23,26204,1402,98,28,2.2,2,2,3,1,3,5,Female,Married,Yes,0,1,6,5-8,5,No,4,3,2,Y,80,1,1554,0.477424174
+982,No,45-50,46,3_Marketing,3,Marketing,Rarely,3,Sales Executive,Sales,1,Yes,3,19,11563,1125,94,10,3,3,2,4,3,3,3,Female,Married,Yes,2,12,15,3-5,3,Yes,1,2,2,Y,80,1,580,0.64232766
+983,No,50+,52,3_Life Sciences,3,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,0,No,3,15,3300,1323,89,2,2.6,3,2,4,2,2,3,Female,Single,Yes,7,4,6,1-3,2,Yes,2,2,2,Y,80,1,316,0.479771143
+984,No,25-30,26,3_Other,3,Other,Rarely,1,Sales Representative,Sales,0,No,3,18,21378,1167,30,5,3.2,4,2,3,4,3,2,Female,Single,Yes,0,1,5,3-5,4,No,0,2,0,Y,80,1,2060,0.325092706
+985,No,35-40,36,4_Marketing,4,Marketing,Rarely,2,Sales Executive,Sales,1,No,3,13,14369,1120,100,11,2.2,2,2,4,1,2,2,Female,Married,Yes,4,2,8,5-8,6,No,0,3,0,Y,80,1,2045,0.480999343
+986,Yes,30-35,32,2_Life Sciences,2,Life Sciences,Frequently,1,Research Scientist,Research & Development,0,Yes,3,14,15318,238,47,5,2.4,1,4,3,1,3,2,Female,Single,Yes,3,4,8,3-5,4,No,0,1,3,Y,80,1,1939,0.481907756
+987,Yes,<25,22,4_Life Sciences,4,Life Sciences,Frequently,1,Research Scientist,Research & Development,1,Yes,3,11,4223,1256,48,3,2.8,3,2,4,2,3,5,Male,Married,Yes,0,1,1,0-1,0,No,0,0,0,Y,80,1,1203,0.48700876
+988,No,30-35,32,5_Marketing,5,Marketing,Rarely,2,Sales Executive,Sales,1,No,3,12,23343,601,97,7,3.2,4,3,4,3,2,3,Male,Married,Yes,4,3,7,3-5,4,No,0,3,3,Y,80,1,1446,0.617063885
+989,No,35-40,39,3_Medical,3,Medical,Frequently,3,Manufacturing Director,Research & Development,0,Yes,3,13,5083,945,82,22,2.8,4,3,1,3,3,2,Female,Single,No,1,0,21,10+,21,Yes,2,6,8,Y,80,1,1043,0.66066694
+990,No,30-35,31,4_Life Sciences,4,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,Yes,3,16,7551,408,42,9,2.8,3,2,2,4,3,5,Male,Single,Yes,0,1,3,1-3,2,Yes,2,2,2,Y,80,1,493,0.489674485
+991,No,35-40,39,3_Life Sciences,3,Life Sciences,Rarely,2,Human Resources,Human Resources,2,No,3,11,7790,1383,42,2,3.2,4,2,4,3,3,2,Female,Married,Yes,8,8,13,5-8,5,No,0,4,4,Y,80,1,909,0.492739984
+992,No,<25,24,3_Medical,3,Medical,Rarely,1,Research Scientist,Research & Development,1,No,3,16,17616,581,62,9,3.4,3,4,3,4,3,1,Male,Married,No,1,0,5,5-8,5,No,0,3,4,Y,80,1,1707,0.424788913
+993,No,30-35,30,3_Human Resources,3,Human Resources,Rarely,2,Human Resources,Human Resources,0,Yes,3,19,13982,1240,48,9,3,3,3,4,4,1,2,Male,Married,Yes,0,1,12,10+,11,No,4,9,7,Y,80,1,184,0.816525406
+994,No,40-45,40,4_Medical,4,Medical,Frequently,2,Sales Executive,Sales,3,No,3,12,25440,1184,62,2,2.8,2,3,2,4,3,2,Male,Married,Yes,5,5,5,0-1,0,No,0,0,0,Y,80,1,1212,0.494343624
+995,No,35-40,38,3_Technical Degree,3,Technical Degree,None,2,Sales Executive,Sales,0,Yes,3,13,19899,152,85,10,3,3,3,4,2,3,1,Female,Single,Yes,1,1,6,5-8,5,Yes,1,3,3,Y,80,1,983,0.058955986
+996,No,30-35,34,4_Other,4,Other,Rarely,2,Research Scientist,Research & Development,0,No,3,14,12482,665,41,6,2.6,1,3,3,3,3,3,Female,Single,No,1,0,16,10+,16,Yes,2,13,10,Y,80,1,138,0.339517116
+997,No,35-40,38,1_Medical,1,Medical,Frequently,1,Research Scientist,Research & Development,1,No,3,17,12127,1391,66,10,2.6,3,3,3,2,2,0,Male,Married,Yes,0,1,3,1-3,2,No,0,1,2,Y,80,1,1006,0.496043287
+998,No,50+,54,3_Medical,3,Medical,Rarely,4,Research Director,Research & Development,0,No,3,19,5652,971,54,1,3.4,4,3,4,4,2,3,Female,Single,Yes,6,9,29,10+,20,No,12,7,7,Y,80,1,1422,0.496865862
+999,No,35-40,35,4_Life Sciences,4,Life Sciences,Rarely,3,Sales Executive,Sales,1,No,3,13,6812,882,92,3,3.2,4,3,4,2,3,2,Male,Divorced,Yes,6,2,12,10+,10,No,0,9,8,Y,80,1,984,0.499276129
+1000,Yes,30-35,32,4_Life Sciences,4,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,0,Yes,4,24,18016,374,87,25,2.4,1,3,4,3,1,2,Male,Single,No,1,0,1,1-3,1,No,0,0,1,Y,80,1,911,0.502617658
+1001,No,45-50,46,2_Medical,2,Medical,Rarely,2,Human Resources,Human Resources,1,Yes,4,22,10425,945,80,5,2.8,2,3,2,4,3,2,Male,Divorced,Yes,8,12,16,3-5,4,No,0,2,2,Y,80,1,103,0.661763737
+1002,No,45-50,47,1_Medical,1,Medical,Frequently,2,Sales Representative,Sales,0,No,3,19,25751,1309,99,4,2.4,2,3,3,1,3,3,Male,Single,Yes,3,5,5,0-1,0,No,0,0,0,Y,80,1,467,0.504275954
+1003,No,30-35,32,3_Medical,3,Medical,Rarely,2,Research Scientist,Research & Development,2,No,3,13,25518,977,45,2,2.8,4,3,2,3,2,4,Male,Divorced,Yes,0,1,10,8-10,9,Yes,1,5,6,Y,80,1,1671,0.504335
+1004,No,45-50,47,2_Medical,2,Medical,Rarely,2,Manufacturing Director,Research & Development,3,No,3,13,7389,983,65,2,2.8,1,3,4,3,3,2,Female,Divorced,Yes,5,15,20,5-8,5,No,0,0,4,Y,80,1,574,0.507693506
+1005,No,45-50,48,4_Other,4,Other,Rarely,1,Research Scientist,Research & Development,1,No,3,12,16530,1108,65,15,2.6,3,3,1,4,2,3,Female,Married,Yes,8,2,10,8-10,8,No,7,2,6,Y,80,1,1576,0.119773816
+1006,No,30-35,34,1_Medical,1,Medical,Rarely,2,Sales Executive,Sales,0,Yes,3,12,16495,735,75,3,3,4,2,4,3,2,3,Female,Married,Yes,3,5,9,3-5,4,No,0,2,1,Y,80,1,1915,0.50915858
+1007,No,<25,20,3_Medical,3,Medical,Rarely,1,Sales Representative,Sales,0,No,3,19,13251,1141,31,2,2.6,3,3,3,1,3,3,Female,Single,No,1,0,2,1-3,2,Yes,2,2,2,Y,80,1,1657,0.659801998
+1008,No,35-40,38,4_Life Sciences,4,Life Sciences,Rarely,2,Healthcare Representative,Research & Development,1,No,3,14,18899,688,82,23,3.2,4,3,4,2,3,2,Male,Divorced,Yes,9,8,10,1-3,2,Yes,1,2,2,Y,80,1,393,0.534795884
+1009,No,50+,53,2_Medical,2,Medical,Rarely,5,Manager,Research & Development,1,No,3,18,18640,1223,50,7,3,4,3,3,2,3,6,Female,Divorced,Yes,3,19,26,5-8,7,No,4,7,7,Y,80,1,1201,0.511949273
+1010,No,50+,53,2_Marketing,2,Marketing,Rarely,2,Sales Representative,Sales,1,Yes,4,20,16047,1436,34,6,2.6,2,3,3,4,1,3,Male,Married,Yes,2,6,13,5-8,7,No,4,7,5,Y,80,1,205,0.51516286
+1011,Yes,35-40,37,3_Medical,3,Medical,Frequently,3,Manufacturing Director,Research & Development,2,No,3,11,22573,504,61,10,2.4,1,3,3,2,3,5,Male,Divorced,Yes,6,16,17,1-3,1,No,0,0,0,Y,80,1,342,0.877228243
+1012,No,30-35,34,4_Life Sciences,4,Life Sciences,Rarely,2,Research Scientist,Research & Development,1,No,3,15,15000,1031,45,6,2.6,3,2,2,3,3,3,Female,Divorced,Yes,6,11,12,1-3,1,No,0,0,0,Y,80,1,151,0.338380072
+1013,No,30-35,32,2_Technical Degree,2,Technical Degree,Rarely,2,Sales Executive,Sales,0,Yes,3,11,24624,588,65,8,2.8,3,2,2,4,3,2,Female,Married,No,1,0,13,10+,13,No,11,12,9,Y,80,1,436,0.519146688
+1014,Yes,30-35,34,4_Life Sciences,4,Life Sciences,Frequently,2,Laboratory Technician,Research & Development,1,No,3,17,6208,234,93,9,2.6,4,3,1,3,2,3,Male,Married,Yes,4,4,11,5-8,7,No,0,1,7,Y,80,1,1807,0.521086494
+1015,Yes,30-35,30,4_Marketing,4,Marketing,Frequently,2,Sales Executive,Sales,0,No,3,15,22967,334,52,26,2.2,3,2,1,3,2,5,Female,Single,Yes,5,3,9,5-8,6,No,0,3,1,Y,80,1,299,0.767038368
+1016,No,40-45,43,3_Technical Degree,3,Technical Degree,Rarely,1,Laboratory Technician,Research & Development,1,No,3,12,5855,990,87,27,3.2,4,4,2,3,3,0,Male,Divorced,Yes,5,2,8,5-8,6,No,0,4,2,Y,80,1,1599,0.973806961
+1017,No,40-45,42,3_Medical,3,Medical,Rarely,1,Laboratory Technician,Research & Development,1,Yes,3,11,8007,269,56,2,2.6,4,2,1,3,3,4,Female,Divorced,Yes,0,1,10,8-10,9,No,7,6,8,Y,80,1,351,0.529102904
+1018,No,35-40,35,5_Marketing,5,Marketing,Rarely,3,Sales Executive,Sales,2,No,3,13,11439,662,94,1,2.4,3,3,2,1,3,3,Male,Married,No,1,0,10,10+,10,No,0,8,6,Y,80,1,204,0.002648848
+1019,No,30-35,30,3_Life Sciences,3,Life Sciences,Rarely,3,Sales Executive,Sales,1,No,3,12,8053,1339,41,5,3,2,3,4,3,3,2,Female,Married,Yes,2,2,12,10+,10,No,7,9,4,Y,80,1,228,0.531829794
+1020,No,<25,18,2_Life Sciences,2,Life Sciences,None,1,Research Scientist,Research & Development,0,No,3,15,13493,287,73,5,3.2,2,3,4,4,3,2,Male,Single,No,1,0,0,0-1,0,No,0,0,0,Y,80,1,1012,0.045988937
+1021,No,45-50,45,3_Other,3,Other,Rarely,2,Sales Executive,Sales,1,No,3,19,16177,561,61,2,3,4,3,2,2,4,3,Male,Married,Yes,0,1,9,8-10,8,Yes,3,7,7,Y,80,1,606,0.595453726
+1022,No,35-40,36,5_Medical,5,Medical,None,2,Sales Executive,Sales,0,No,3,15,15276,845,45,1,3.2,4,3,4,2,3,6,Female,Single,Yes,4,6,7,1-3,1,No,0,0,0,Y,80,1,479,0.29047208
+1023,No,35-40,39,4_Other,4,Other,Rarely,2,Research Scientist,Research & Development,3,No,3,14,5141,835,41,19,3.2,4,3,4,2,3,2,Male,Divorced,Yes,8,5,7,1-3,2,Yes,2,2,2,Y,80,1,1871,0.206547031
+1024,No,45-50,45,1_Life Sciences,1,Life Sciences,None,3,Healthcare Representative,Research & Development,1,No,4,23,3395,1238,74,1,2.8,3,2,3,4,2,3,Male,Married,Yes,3,2,25,10+,23,No,14,15,4,Y,80,1,1712,0.269679336
+1025,No,40-45,41,3_Life Sciences,3,Life Sciences,Frequently,4,Manager,Research & Development,1,No,3,13,12888,857,91,10,2.2,4,2,1,2,2,2,Male,Divorced,Yes,4,14,21,5-8,7,No,7,6,7,Y,80,1,199,0.915796613
+1026,No,35-40,39,3_Life Sciences,3,Life Sciences,None,5,Manager,Research & Development,0,No,3,13,15302,105,87,9,3.2,4,3,4,3,2,3,Male,Single,Yes,2,15,21,5-8,6,Yes,1,0,3,Y,80,1,2022,0.13891403
+1027,No,30-35,31,3_Human Resources,3,Human Resources,Rarely,2,Human Resources,Human Resources,0,No,3,12,17822,106,62,2,2.2,1,2,1,4,3,1,Male,Married,Yes,3,7,9,1-3,2,Yes,1,2,0,Y,80,1,424,0.55035026
+1028,No,25-30,25,2_Life Sciences,2,Life Sciences,Rarely,2,Sales Executive,Sales,0,Yes,3,11,12090,891,99,4,2.6,2,2,4,2,3,3,Female,Single,No,1,0,5,5-8,5,Yes,1,4,3,Y,80,1,527,0.370729233
+1029,Yes,<25,24,2_Life Sciences,2,Life Sciences,Rarely,2,Sales Executive,Sales,0,No,3,14,24785,693,65,3,2.2,1,3,3,1,3,3,Female,Single,Yes,9,2,4,1-3,2,Yes,2,2,0,Y,80,1,720,0.38705944
+1030,Yes,40-45,44,2_Medical,2,Medical,Rarely,3,Human Resources,Human Resources,1,No,3,14,2326,1376,91,1,2.4,2,2,1,4,3,1,Male,Married,Yes,9,4,24,10+,20,Yes,3,6,6,Y,80,1,1098,0.556111062
+1031,No,30-35,32,1_Marketing,1,Marketing,Rarely,2,Sales Executive,Sales,3,Yes,3,13,20497,499,36,2,2.2,3,3,2,1,2,3,Male,Married,Yes,0,1,4,3-5,3,Yes,1,2,2,Y,80,1,1396,0.558353466
+1032,No,40-45,43,3_Life Sciences,3,Life Sciences,Rarely,1,Human Resources,Human Resources,0,No,3,13,5033,244,97,2,2.8,2,3,4,2,3,5,Male,Single,Yes,0,1,10,8-10,9,Yes,1,7,8,Y,80,1,1778,0.563341184
+1033,No,25-30,27,1_Technical Degree,1,Technical Degree,Rarely,3,Research Director,Research & Development,1,Yes,3,16,8842,269,42,5,2.8,3,2,4,2,3,3,Male,Divorced,No,1,0,9,8-10,9,No,0,8,8,Y,80,1,844,0.588270067
+1034,No,25-30,26,2_Life Sciences,2,Life Sciences,Rarely,1,Research Scientist,Research & Development,1,Yes,3,13,14908,482,90,1,2.4,2,2,3,3,2,3,Female,Married,No,1,0,1,1-3,1,Yes,1,0,0,Y,80,1,1893,0.564903976
+1035,No,40-45,40,4_Other,4,Other,None,2,Laboratory Technician,Research & Development,2,No,3,11,23099,663,81,9,3.2,3,3,3,3,4,2,Male,Divorced,Yes,3,3,11,8-10,8,No,0,7,7,Y,80,1,1449,0.567325038
+1036,Yes,<25,20,1_Medical,1,Medical,Rarely,1,Research Scientist,Research & Development,0,Yes,3,11,26999,1362,32,10,3.4,4,3,3,4,3,5,Male,Single,No,1,0,1,1-3,1,Yes,1,0,1,Y,80,1,701,0.481370799
+1037,No,25-30,25,1_Medical,1,Medical,Rarely,2,Sales Executive,Sales,0,No,4,23,22807,883,32,26,2.8,3,3,4,2,2,5,Female,Single,No,1,0,6,5-8,6,Yes,1,5,4,Y,80,1,781,0.712033635
+1038,No,50+,54,4_Medical,4,Medical,Rarely,3,Human Resources,Human Resources,1,No,3,15,6729,397,88,19,3,3,3,2,3,4,1,Male,Married,Yes,2,7,16,8-10,9,No,7,7,1,Y,80,1,698,0.575115246
+1039,No,35-40,39,1_Medical,1,Medical,Rarely,3,Research Director,Research & Development,0,No,4,21,7914,1253,65,10,3,3,3,3,3,3,3,Male,Single,Yes,7,5,9,3-5,4,Yes,2,3,2,Y,80,1,1800,0.576293885
+1040,No,25-30,29,3_Medical,3,Medical,Rarely,2,Healthcare Representative,Research & Development,1,No,3,12,25549,657,66,27,2.2,2,3,3,1,2,3,Female,Married,Yes,4,3,11,8-10,8,Yes,1,7,1,Y,80,1,793,0.926765893
+1041,Yes,30-35,31,2_Medical,2,Medical,Frequently,1,Laboratory Technician,Research & Development,0,No,3,11,11652,307,71,29,2.6,3,2,2,2,4,2,Male,Single,Yes,0,1,6,5-8,5,Yes,1,4,4,Y,80,1,355,0.580582516
+1042,No,30-35,33,4_Other,4,Other,Rarely,1,Research Scientist,Research & Development,0,Yes,3,11,3339,1198,100,1,2.2,3,2,1,2,3,1,Male,Single,Yes,3,3,6,3-5,3,No,0,2,2,Y,80,1,939,0.582519782
+1043,No,35-40,36,3_Medical,3,Medical,Rarely,3,Sales Executive,Sales,2,No,3,19,12695,557,94,3,2.6,1,2,4,3,3,2,Female,Married,Yes,0,1,10,8-10,9,Yes,3,7,4,Y,80,1,2024,0.924106258
+1044,No,35-40,36,2_Life Sciences,2,Life Sciences,Rarely,2,Sales Executive,Sales,1,Yes,3,14,2823,928,56,1,3,2,3,4,4,2,1,Male,Married,No,1,0,18,10+,18,No,4,14,11,Y,80,1,857,0.583646126
+1045,No,25-30,28,3_Medical,3,Medical,None,1,Research Scientist,Research & Development,0,No,3,14,2122,1103,49,16,2.8,3,3,3,3,2,3,Male,Single,No,1,0,5,5-8,5,Yes,1,3,4,Y,80,1,1947,0.71275648
+1046,Yes,25-30,28,3_Medical,3,Medical,Frequently,1,Laboratory Technician,Research & Development,2,No,3,15,7160,1009,45,1,1.8,1,2,2,1,3,2,Male,Divorced,No,1,0,1,1-3,1,No,0,0,0,Y,80,1,1111,0.554541516
+1047,Yes,35-40,38,3_Medical,3,Medical,Rarely,2,Manufacturing Director,Research & Development,2,No,3,11,7653,903,81,2,2.4,3,3,2,1,3,2,Male,Married,Yes,4,2,7,5-8,5,Yes,1,2,4,Y,80,1,1573,0.587355057
+1048,No,30-35,33,4_Life Sciences,4,Life Sciences,Frequently,3,Manager,Research & Development,2,No,3,11,23364,553,74,5,2.8,4,3,2,2,3,2,Female,Married,Yes,6,2,12,10+,10,No,8,6,8,Y,80,1,428,0.653429305
+1049,Yes,25-30,27,4_Life Sciences,4,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,Yes,3,13,25681,135,51,17,3.4,4,3,3,4,3,2,Female,Single,No,1,0,8,8-10,8,No,7,2,7,Y,80,1,1405,0.537403584
+1050,Yes,35-40,35,2_Medical,2,Medical,Rarely,2,Sales Executive,Sales,2,Yes,3,14,22098,763,59,15,2.4,1,1,4,4,2,2,Male,Divorced,Yes,6,5,7,1-3,2,Yes,2,2,2,Y,80,1,1645,0.594488369
+1051,Yes,50+,53,5_Technical Degree,5,Technical Degree,Rarely,3,Manufacturing Director,Research & Development,1,No,3,16,14618,607,78,2,2.8,3,2,4,2,3,4,Female,Married,Yes,0,1,34,10+,33,Yes,1,7,9,Y,80,1,1572,0.594992798
+1052,No,35-40,36,1_Medical,1,Medical,Frequently,1,Laboratory Technician,Research & Development,0,No,3,13,7703,635,73,18,2.6,2,3,4,1,3,2,Female,Single,No,1,0,8,8-10,8,Yes,1,1,7,Y,80,1,286,0.595454961
+1053,No,40-45,43,4_Other,4,Other,Rarely,2,Healthcare Representative,Research & Development,0,Yes,3,14,2227,1473,74,8,3.2,3,3,3,4,3,3,Female,Divorced,Yes,4,3,8,5-8,5,No,0,2,2,Y,80,1,526,0.597079966
+1054,No,25-30,28,3_Medical,3,Medical,Rarely,1,Research Scientist,Research & Development,1,No,3,18,9834,995,77,9,2.8,3,3,3,2,3,2,Female,Divorced,Yes,5,4,6,1-3,2,Yes,2,2,2,Y,80,1,930,0.597512213
+1055,No,25-30,27,3_Medical,3,Medical,Frequently,1,Research Scientist,Research & Development,0,No,3,13,6297,591,87,2,3.2,4,3,4,3,2,0,Male,Single,Yes,2,2,6,3-5,4,Yes,1,2,2,Y,80,1,1648,0.59805374
+1056,Yes,25-30,25,3_Medical,3,Medical,Rarely,1,Laboratory Technician,Research & Development,1,No,3,13,9396,688,91,3,2.2,1,3,1,3,3,5,Male,Married,Yes,5,4,6,1-3,2,No,0,2,2,Y,80,1,538,0.600247357
+1057,No,25-30,27,1_Technical Degree,1,Technical Degree,Frequently,2,Manufacturing Director,Research & Development,1,No,3,19,9679,472,60,1,2.4,3,2,1,3,3,1,Male,Married,Yes,5,4,6,1-3,2,Yes,2,2,0,Y,80,1,274,0.602779086
+1058,No,40-45,43,3_Marketing,3,Marketing,Rarely,4,Manager,Sales,1,Yes,4,22,7744,1034,80,16,3.4,4,3,4,3,3,3,Female,Married,Yes,5,5,22,10+,17,Yes,1,13,9,Y,80,1,327,0.603930603
+1059,No,35-40,37,2_Other,2,Other,Rarely,2,Human Resources,Human Resources,0,No,3,13,12832,1239,89,8,2.6,3,3,2,3,2,4,Male,Divorced,Yes,2,9,19,10+,10,No,4,0,7,Y,80,1,1794,0.604636257
+1060,No,25-30,28,1_Life Sciences,1,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,No,3,17,19911,1451,67,2,1.4,1,2,2,1,1,2,Male,Married,Yes,0,1,6,5-8,5,No,0,3,4,Y,80,1,1136,0.569596987
+1061,No,50+,57,2_Life Sciences,2,Life Sciences,Rarely,2,Research Scientist,Research & Development,1,No,4,24,2721,405,93,1,2.4,2,4,3,1,2,2,Male,Married,Yes,0,1,13,10+,12,Yes,2,9,8,Y,80,1,1483,0.257872678
+1062,No,30-35,34,4_Life Sciences,4,Life Sciences,Frequently,2,Manufacturing Director,Research & Development,1,No,3,13,17000,426,42,10,3,3,4,4,1,3,3,Male,Divorced,No,1,0,9,8-10,9,No,7,7,2,Y,80,1,1615,0.610252514
+1063,No,30-35,33,3_Life Sciences,3,Life Sciences,Frequently,2,Healthcare Representative,Research & Development,1,No,4,23,5335,1296,30,6,2.8,3,3,4,3,1,2,Male,Divorced,Yes,3,2,15,10+,13,No,4,11,7,Y,80,1,692,0.611881652
+1064,Yes,<25,23,3_Life Sciences,3,Life Sciences,Rarely,1,Sales Representative,Sales,1,Yes,4,21,25103,427,99,7,3,3,3,4,2,3,2,Male,Divorced,No,1,0,3,3-5,3,No,0,2,2,Y,80,1,1702,0.612421267
+1065,No,50+,58,4_Life Sciences,4,Life Sciences,None,2,Healthcare Representative,Research & Development,1,Yes,3,13,17056,390,32,1,3,4,1,3,4,3,2,Male,Divorced,Yes,2,7,12,5-8,5,Yes,1,3,2,Y,80,1,422,0.803453036
+1066,No,<25,23,1_Medical,1,Medical,Rarely,1,Laboratory Technician,Research & Development,1,No,3,14,4344,650,37,9,2.8,2,3,1,4,4,2,Male,Married,Yes,1,1,5,3-5,4,No,0,3,2,Y,80,1,758,0.612633482
+1067,No,40-45,40,4_Medical,4,Medical,Rarely,1,Research Scientist,Research & Development,3,No,3,14,12549,1194,98,2,2.8,3,3,3,2,3,2,Female,Married,Yes,2,15,20,5-8,5,No,0,3,2,Y,80,1,2051,0.617289981
+1068,No,50+,60,3_Life Sciences,3,Life Sciences,Rarely,5,Manager,Research & Development,0,No,3,11,3854,422,41,7,2,1,3,1,4,1,5,Female,Married,Yes,5,4,33,10+,29,No,11,8,10,Y,80,1,549,0.786552873
+1069,No,30-35,33,3_Medical,3,Medical,Frequently,2,Sales Executive,Sales,2,No,3,14,17456,430,54,7,2.4,4,3,1,1,3,2,Male,Married,Yes,0,1,5,3-5,4,No,0,3,3,Y,80,1,1477,0.621231388
+1070,No,50+,50,4_Marketing,4,Marketing,Rarely,1,Sales Representative,Sales,1,No,3,15,9983,316,54,8,3.2,4,3,2,4,3,2,Male,Married,Yes,7,2,4,1-3,2,Yes,2,2,2,Y,80,1,738,0.622663154
+1071,No,25-30,27,3_Medical,3,Medical,Rarely,1,Sales Representative,Sales,1,No,3,14,6527,1291,98,11,3.2,3,4,4,2,3,4,Female,Married,Yes,8,4,5,1-3,1,No,0,0,0,Y,80,1,1364,0.623716256
+1072,No,30-35,31,2_Medical,2,Medical,Rarely,2,Manufacturing Director,Research & Development,1,No,3,12,4156,480,31,7,1.8,2,3,1,2,1,5,Female,Married,No,1,0,13,10+,13,Yes,3,10,12,Y,80,1,524,0.092842884
+1073,No,<25,20,3_Marketing,3,Marketing,Rarely,1,Sales Representative,Sales,0,No,3,17,5050,654,43,21,3.6,3,4,4,4,3,2,Male,Single,No,1,0,2,1-3,2,Yes,2,1,2,Y,80,1,1226,0.624826822
+1074,No,30-35,30,3_Life Sciences,3,Life Sciences,Rarely,2,Healthcare Representative,Research & Development,1,No,3,16,9128,305,58,16,3.2,3,4,3,3,3,3,Male,Married,Yes,3,3,10,5-8,7,Yes,1,0,7,Y,80,1,1763,0.627253737
+1075,No,50+,56,5_Marketing,5,Marketing,Rarely,2,Sales Executive,Sales,1,No,3,16,20328,1443,89,11,2.6,4,2,1,3,3,3,Female,Married,Yes,4,6,6,0-1,0,No,0,0,0,Y,80,1,1935,0.827413433
+1076,No,45-50,46,3_Marketing,3,Marketing,Rarely,4,Manager,Sales,0,No,4,23,24097,1402,69,2,2.2,3,3,1,1,3,2,Female,Married,Yes,8,2,28,10+,26,No,15,15,9,Y,80,1,1204,0.629531189
+1077,No,50+,53,3_Other,3,Other,Rarely,5,Manager,Research & Development,1,No,3,11,10735,1282,58,5,3,3,3,3,4,2,3,Female,Divorced,Yes,4,12,26,10+,14,No,4,13,8,Y,80,1,32,0.534922097
+1078,No,30-35,31,3_Life Sciences,3,Life Sciences,Rarely,2,Laboratory Technician,Research & Development,1,No,3,11,18624,311,89,20,2.4,2,3,3,1,3,2,Male,Divorced,No,1,0,10,10+,10,No,0,8,2,Y,80,1,1881,0.630756618
+1079,No,35-40,36,3_Technical Degree,3,Technical Degree,Rarely,2,Research Scientist,Research & Development,0,No,3,12,26285,506,30,3,3,3,3,2,4,3,2,Male,Single,Yes,4,2,10,8-10,8,No,7,0,7,Y,80,1,397,0.635355215
+1080,No,40-45,42,2_Life Sciences,2,Life Sciences,Frequently,2,Research Scientist,Research & Development,1,No,3,11,12932,532,92,29,2.4,1,3,3,2,3,3,Female,Divorced,Yes,2,14,19,5-8,5,No,0,4,2,Y,80,1,547,0.637941769
+1081,No,40-45,40,4_Life Sciences,4,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,No,3,14,2725,1322,52,2,3,3,2,3,4,3,2,Male,Single,Yes,2,6,8,1-3,2,Yes,2,2,2,Y,80,1,2048,0.48523014
+1082,No,35-40,35,4_Life Sciences,4,Life Sciences,Rarely,1,Research Scientist,Research & Development,1,No,3,12,8952,287,62,1,3,3,1,4,4,3,5,Female,Married,No,1,0,4,3-5,4,Yes,1,3,1,Y,80,1,2052,0.120427993
+1083,Yes,<25,23,3_Marketing,3,Marketing,Frequently,1,Sales Representative,Sales,1,No,3,19,26956,638,33,9,2.2,4,3,1,1,2,3,Male,Married,No,1,0,1,1-3,1,Yes,1,0,0,Y,80,1,2023,0.642875987
+1084,No,35-40,35,3_Marketing,3,Marketing,Rarely,2,Sales Executive,Sales,0,No,3,11,18659,619,85,1,2.8,2,3,3,3,3,2,Male,Married,Yes,9,4,15,10+,11,No,6,9,9,Y,80,1,600,0.732977681
+1085,No,35-40,38,3_Life Sciences,3,Life Sciences,Frequently,3,Manufacturing Director,Research & Development,0,No,4,21,8787,216,44,23,2.8,4,2,3,2,3,2,Male,Single,Yes,0,1,10,8-10,9,Yes,1,7,8,Y,80,1,12,0.645534433
+1086,No,40-45,40,4_Life Sciences,4,Life Sciences,Frequently,3,Sales Executive,Sales,1,Yes,4,21,23772,580,48,5,2.6,4,2,1,3,3,2,Male,Married,Yes,5,2,20,10+,18,Yes,1,13,12,Y,80,1,729,0.647344308
+1087,No,30-35,31,3_Technical Degree,3,Technical Degree,Rarely,2,Sales Executive,Sales,1,No,3,19,20943,1003,51,5,2.6,1,3,3,3,3,3,Male,Married,Yes,1,1,6,5-8,5,No,0,2,2,Y,80,1,1749,0.647501329
+1088,No,35-40,38,5_Medical,5,Medical,Rarely,1,Research Scientist,Research & Development,1,Yes,3,13,20471,268,92,2,2.6,4,3,3,2,1,0,Male,Married,Yes,6,5,6,1-3,1,No,0,0,1,Y,80,1,773,0.64760331
+1089,No,30-35,31,4_Technical Degree,4,Technical Degree,Rarely,1,Research Scientist,Research & Development,1,Yes,3,12,10077,691,86,5,3.2,3,3,4,3,3,4,Male,Married,Yes,0,1,6,5-8,5,No,0,2,3,Y,80,1,423,0.246282929
+1090,No,25-30,27,3_Marketing,3,Marketing,Rarely,2,Sales Executive,Sales,0,Yes,3,11,7100,205,98,10,3.4,4,2,4,4,3,3,Female,Married,No,1,0,6,5-8,6,No,4,2,4,Y,80,1,1403,0.99254281
+1091,No,25-30,29,1_Marketing,1,Marketing,Rarely,2,Sales Executive,Sales,2,Yes,3,14,11866,144,39,10,2.4,4,2,2,1,3,2,Female,Divorced,No,1,0,7,5-8,7,Yes,1,7,7,Y,80,1,463,0.650532559
+1092,No,35-40,36,4_Marketing,4,Marketing,None,2,Sales Executive,Sales,1,No,4,24,10436,301,88,15,2.4,4,1,4,1,2,4,Male,Divorced,No,1,0,15,10+,15,No,11,12,11,Y,80,1,2036,0.650866663
+1093,No,35-40,37,3_Other,3,Other,Frequently,3,Research Director,Research & Development,3,Yes,3,14,10056,663,47,11,3,2,3,4,3,3,1,Male,Divorced,No,1,0,10,10+,10,No,0,8,7,Y,80,1,306,0.113813964
+1094,No,40-45,40,3_Technical Degree,3,Technical Degree,Rarely,2,Sales Executive,Sales,1,No,3,12,11591,107,84,10,2.4,2,2,2,2,4,2,Female,Divorced,Yes,7,2,7,5-8,5,Yes,1,1,3,Y,80,1,1239,0.652899688
+1095,No,25-30,25,2_Life Sciences,2,Life Sciences,None,2,Healthcare Representative,Research & Development,2,No,3,12,18384,675,85,5,2.8,2,4,1,4,3,2,Male,Divorced,No,1,0,6,5-8,6,Yes,1,3,5,Y,80,1,369,0.655307052
+1096,No,35-40,37,4_Life Sciences,4,Life Sciences,Rarely,2,Manufacturing Director,Research & Development,1,No,3,12,15701,446,65,1,2.2,2,3,2,2,2,2,Female,Married,Yes,6,2,8,5-8,6,No,4,5,3,Y,80,1,635,0.272203033
+1097,No,35-40,37,2_Medical,2,Medical,Rarely,1,Research Scientist,Research & Development,1,No,3,14,18697,1017,83,1,1.8,3,2,1,1,2,2,Female,Married,Yes,2,14,17,3-5,3,No,0,1,2,Y,80,1,340,0.273831641
+1098,Yes,30-35,30,3_Human Resources,3,Human Resources,Frequently,1,Human Resources,Human Resources,1,No,3,11,9732,600,66,8,2.8,3,2,4,3,2,0,Female,Divorced,Yes,6,2,6,3-5,4,Yes,1,2,2,Y,80,1,1747,0.806488803
+1099,No,30-35,32,3_Medical,3,Medical,Rarely,1,Laboratory Technician,Research & Development,1,No,3,13,3956,1062,75,2,2.8,3,3,2,3,3,4,Female,Married,No,1,0,8,8-10,8,No,0,0,7,Y,80,1,471,0.664425808
+1100,Yes,35-40,37,4_Medical,4,Medical,Rarely,2,Manufacturing Director,Research & Development,0,No,3,15,4992,370,58,10,2.2,4,3,1,2,1,4,Male,Single,No,1,0,10,10+,10,No,0,3,8,Y,80,1,1809,0.66535932
+1101,No,40-45,40,1_Medical,1,Medical,Rarely,5,Manager,Research & Development,1,No,3,14,6499,989,46,4,3,4,3,3,2,3,2,Female,Married,Yes,1,1,21,10+,20,No,9,8,9,Y,80,1,253,0.666332424
+1102,No,40-45,40,2_Marketing,2,Marketing,Rarely,2,Sales Executive,Sales,2,No,3,12,22553,759,46,2,3,4,3,2,3,3,5,Female,Divorced,Yes,7,3,8,5-8,5,Yes,1,4,3,Y,80,1,516,0.667555239
+1103,No,35-40,38,2_Life Sciences,2,Life Sciences,None,2,Sales Executive,Sales,1,No,3,18,19682,1327,39,2,3.4,4,2,4,4,3,0,Male,Married,Yes,3,5,13,8-10,8,No,7,7,5,Y,80,1,361,0.66871319
+1104,No,50+,53,2_Marketing,2,Marketing,Rarely,3,Sales Executive,Sales,1,Yes,3,18,20715,661,78,7,2.8,1,2,4,4,3,3,Female,Married,Yes,7,30,35,5-8,5,No,0,2,4,Y,80,1,862,0.668917283
+1105,No,35-40,36,4_Other,4,Other,Rarely,1,Research Scientist,Research & Development,0,No,3,18,23293,188,65,7,3,2,3,4,3,3,6,Male,Single,Yes,2,2,8,5-8,6,No,0,2,1,Y,80,1,949,0.669102263
+1106,No,25-30,29,3_Life Sciences,3,Life Sciences,Frequently,1,Research Scientist,Research & Development,2,No,3,14,17940,490,61,10,3,4,3,2,4,2,2,Female,Divorced,Yes,0,1,8,5-8,7,Yes,1,5,1,Y,80,1,1143,0.673283621
+1107,No,25-30,27,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,2,Yes,3,14,14377,1103,42,14,2.2,1,3,1,4,2,3,Male,Married,No,1,0,9,8-10,9,No,6,7,8,Y,80,1,1244,0.673505681
+1108,No,40-45,44,4_Life Sciences,4,Life Sciences,Rarely,2,Human Resources,Human Resources,0,No,3,11,26894,1112,50,1,2.4,1,2,3,2,4,1,Female,Single,Yes,4,8,10,1-3,2,No,0,2,2,Y,80,1,665,0.67438002
+1109,No,25-30,27,3_Life Sciences,3,Life Sciences,Frequently,2,Sales Executive,Sales,0,No,3,14,12916,1242,90,20,3.4,4,3,3,4,3,2,Female,Single,No,1,0,7,5-8,7,No,0,7,7,Y,80,1,293,0.675073496
+1110,No,35-40,35,4_Medical,4,Medical,Rarely,2,Sales Executive,Sales,1,No,3,16,15975,682,71,18,2.2,2,3,1,4,1,2,Male,Married,Yes,0,1,6,5-8,5,No,0,3,4,Y,80,1,1945,0.715764662
+1111,No,35-40,35,4_Life Sciences,4,Life Sciences,None,2,Healthcare Representative,Research & Development,1,No,3,12,12250,208,52,8,3.2,3,3,3,4,3,5,Female,Married,Yes,1,1,15,10+,14,Yes,2,11,9,Y,80,1,1630,0.814088025
+1112,No,50+,59,2_Technical Degree,2,Technical Degree,Rarely,3,Manager,Sales,1,Yes,3,14,11038,1089,66,1,2.6,2,3,4,3,1,1,Male,Married,Yes,3,8,14,5-8,6,No,0,4,4,Y,80,1,1048,0.68374963
+1113,Yes,30-35,33,1_Medical,1,Medical,Rarely,3,Manager,Research & Development,0,Yes,3,12,24619,1277,56,15,3.2,2,3,3,4,4,2,Male,Married,Yes,7,8,15,5-8,7,No,7,6,7,Y,80,1,582,0.686979781
+1114,Yes,50+,50,2_Technical Degree,2,Technical Degree,Frequently,2,Sales Executive,Sales,1,Yes,3,14,23452,562,50,8,2.4,2,3,3,1,3,4,Male,Married,Yes,3,14,18,3-5,4,Yes,1,3,3,Y,80,1,723,0.329603133
+1115,No,45-50,47,3_Medical,3,Medical,Rarely,3,Healthcare Representative,Research & Development,0,No,4,23,13084,1180,84,25,2.4,1,3,3,2,3,3,Male,Single,Yes,2,8,25,10+,17,No,12,14,11,Y,80,1,1993,0.849614419
+1116,No,25-30,27,3_Life Sciences,3,Life Sciences,Frequently,1,Research Scientist,Research & Development,1,No,3,19,23844,1131,77,15,2.6,4,2,1,4,2,2,Female,Married,Yes,0,1,8,5-8,7,No,7,6,3,Y,80,1,1870,0.418478765
+1117,No,35-40,37,4_Life Sciences,4,Life Sciences,Rarely,2,Manufacturing Director,Research & Development,0,Yes,3,12,21123,1305,49,10,2.8,3,3,2,4,2,2,Male,Single,Yes,2,17,18,1-3,1,No,0,0,1,Y,80,1,518,0.483125535
+1118,No,25-30,28,3_Life Sciences,3,Life Sciences,None,2,Laboratory Technician,Research & Development,3,No,3,11,16392,1476,55,1,2.4,3,1,4,1,3,6,Female,Married,Yes,0,1,10,8-10,9,No,7,8,5,Y,80,1,1315,0.695561272
+1119,No,50+,58,3_Technical Degree,3,Technical Degree,Rarely,3,Healthcare Representative,Research & Development,1,Yes,3,13,9255,1272,37,5,2.8,3,2,2,4,3,3,Female,Divorced,Yes,2,18,24,5-8,6,No,0,0,4,Y,80,1,940,0.076460709
+1120,No,30-35,34,3_Technical Degree,3,Technical Degree,Rarely,1,Sales Representative,Sales,2,Yes,3,18,2912,204,31,14,3.2,3,3,3,4,3,3,Female,Divorced,No,1,0,8,8-10,8,No,0,2,6,Y,80,1,666,0.118938978
+1121,Yes,50+,50,3_Marketing,3,Marketing,Rarely,3,Sales Executive,Sales,1,Yes,3,13,16586,410,39,28,2.4,4,2,1,2,3,3,Male,Divorced,Yes,4,17,20,3-5,3,Yes,2,2,0,Y,80,1,2055,0.607465823
+1122,No,45-50,48,4_Medical,4,Medical,None,4,Manager,Research & Development,0,No,4,22,16154,1262,35,1,2.8,1,4,4,3,2,3,Male,Single,Yes,2,22,27,5-8,5,Yes,2,4,1,Y,80,1,1116,0.661454748
+1123,No,30-35,31,3_Life Sciences,3,Life Sciences,Frequently,2,Research Scientist,Research & Development,0,No,4,21,5771,1125,48,1,2.2,4,1,1,2,3,6,Male,Married,No,1,0,10,10+,10,No,8,8,7,Y,80,1,1956,0.350577567
+1124,No,45-50,45,2_Medical,2,Medical,None,4,Manager,Research & Development,1,No,4,23,20462,1195,65,2,2.8,1,2,4,4,3,1,Male,Married,Yes,9,2,22,10+,20,No,11,8,8,Y,80,1,264,0.702110813
+1125,No,30-35,34,3_Technical Degree,3,Technical Degree,Rarely,1,Research Scientist,Research & Development,0,No,3,17,21643,1320,89,20,3.2,3,4,3,4,2,5,Female,Married,Yes,0,1,2,1-3,1,No,0,0,0,Y,80,1,1265,0.039445796
+1126,Yes,<25,19,1_Technical Degree,1,Technical Degree,Frequently,1,Sales Representative,Sales,0,No,4,21,20989,602,100,1,2,3,1,1,1,4,5,Female,Single,Yes,0,1,1,0-1,0,No,0,0,0,Y,80,1,235,0.702989445
+1127,Yes,<25,24,3_Life Sciences,3,Life Sciences,Frequently,1,Laboratory Technician,Research & Development,1,Yes,3,16,14168,1287,55,7,2.8,1,3,3,4,3,4,Female,Married,No,1,0,6,5-8,6,Yes,1,3,2,Y,80,1,647,0.583396373
+1128,No,50+,52,4_Life Sciences,4,Life Sciences,Rarely,2,Laboratory Technician,Research & Development,1,No,4,20,21821,1325,82,11,3,4,3,3,2,3,3,Female,Married,Yes,8,4,9,5-8,5,Yes,1,2,4,Y,80,1,813,0.705522697
+1129,No,40-45,41,4_Life Sciences,4,Life Sciences,Rarely,4,Manager,Sales,0,No,3,19,15896,334,88,2,2.8,4,3,2,2,3,2,Male,Single,No,1,0,22,10+,22,No,0,10,4,Y,80,1,410,0.707081215
+1130,No,<25,22,1_Life Sciences,1,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,1,No,3,15,6881,217,94,8,1.4,2,1,1,1,2,3,Male,Married,No,1,0,4,3-5,4,Yes,1,3,1,Y,80,1,1019,0.727705945
+1131,No,30-35,31,4_Medical,4,Medical,Frequently,3,Research Director,Research & Development,1,No,3,12,13523,1327,73,3,2.4,2,3,3,1,3,3,Male,Divorced,Yes,9,7,9,1-3,2,Yes,2,2,2,Y,80,1,337,0.713454281
+1132,No,35-40,39,4_Medical,4,Medical,Rarely,4,Manager,Research & Development,2,Yes,3,13,17334,412,94,13,2.8,3,2,2,4,3,4,Female,Divorced,Yes,6,2,21,10+,19,No,15,9,2,Y,80,1,1307,0.155240878
+1133,No,40-45,42,4_Life Sciences,4,Life Sciences,Rarely,2,Healthcare Representative,Research & Development,2,No,3,13,5718,622,81,2,3,3,3,4,2,3,4,Female,Married,No,1,0,10,10+,10,Yes,2,2,2,Y,80,1,659,0.715586839
+1134,No,35-40,38,3_Medical,3,Medical,Frequently,1,Laboratory Technician,Research & Development,0,No,4,22,23826,148,42,2,2.6,4,2,2,2,3,3,Female,Single,No,1,0,4,3-5,4,Yes,3,3,3,Y,80,1,1675,0.716688892
+1135,Yes,30-35,32,3_Medical,3,Medical,Rarely,1,Laboratory Technician,Research & Development,0,No,4,22,10224,1033,41,9,2,1,3,1,1,4,2,Female,Single,Yes,7,5,10,5-8,5,No,0,4,4,Y,80,1,190,0.716808833
+1136,No,25-30,26,2_Medical,2,Medical,Rarely,1,Laboratory Technician,Research & Development,2,No,3,16,11141,192,59,1,1.6,1,2,1,1,3,2,Male,Married,Yes,1,1,6,5-8,5,Yes,1,3,3,Y,80,1,1083,0.717474755
+1137,No,35-40,37,3_Medical,3,Medical,Rarely,1,Laboratory Technician,Research & Development,1,No,4,20,17663,921,98,10,2.4,3,3,1,2,3,3,Female,Married,Yes,6,12,17,5-8,5,No,0,4,3,Y,80,1,486,0.503917979
+1138,No,40-45,41,3_Marketing,3,Marketing,Frequently,2,Sales Executive,Sales,1,No,3,17,4297,1018,66,1,2.8,3,3,1,4,3,2,Female,Divorced,Yes,0,1,10,8-10,9,Yes,1,3,7,Y,80,1,1349,0.717989274
+1139,No,35-40,38,3_Life Sciences,3,Life Sciences,Rarely,3,Sales Executive,Sales,2,No,3,12,9647,119,76,3,2.4,1,3,3,3,2,6,Male,Divorced,Yes,0,1,17,10+,16,No,5,10,13,Y,80,1,307,0.758569989
+1140,No,40-45,43,2_Life Sciences,2,Life Sciences,Rarely,4,Research Director,Research & Development,1,No,4,24,3525,1291,65,15,2.4,3,2,3,1,3,3,Male,Married,No,1,0,14,10+,14,No,6,10,11,Y,80,1,1666,0.871248697
+1141,No,30-35,31,3_Medical,3,Medical,Rarely,2,Healthcare Representative,Research & Development,1,No,4,21,14408,1463,64,23,2.6,2,2,4,2,3,2,Male,Married,Yes,0,1,10,8-10,9,No,7,0,8,Y,80,1,367,0.724330284
+1142,No,40-45,42,4_Marketing,4,Marketing,Rarely,2,Sales Executive,Sales,1,No,3,11,21173,691,48,8,3,3,3,2,4,3,2,Male,Married,Yes,0,1,10,8-10,9,No,4,7,2,Y,80,1,35,0.729904666
+1143,No,45-50,48,4_Life Sciences,4,Life Sciences,Rarely,3,Healthcare Representative,Research & Development,0,No,3,14,22245,1355,78,4,2.6,3,2,3,2,3,3,Male,Single,Yes,7,12,27,10+,15,No,4,11,8,Y,80,1,1024,0.730070621
+1144,No,25-30,28,4_Medical,4,Medical,Rarely,2,Sales Executive,Sales,0,No,3,14,24252,821,98,5,2.6,1,3,4,2,3,3,Male,Single,No,1,0,4,3-5,4,No,0,2,2,Y,80,1,916,0.146763895
+1145,No,40-45,44,5_Human Resources,5,Human Resources,Frequently,2,Human Resources,Human Resources,0,Yes,3,11,10503,602,37,1,2.8,1,3,4,3,3,3,Male,Married,Yes,4,4,14,10+,10,No,0,7,2,Y,80,1,1642,0.685638585
+1146,No,45-50,45,3_Life Sciences,3,Life Sciences,Rarely,2,Sales Executive,Sales,0,No,3,15,23333,374,50,20,3.2,4,3,3,3,3,3,Female,Single,Yes,8,3,8,5-8,5,No,0,3,1,Y,80,1,2046,0.654557883
+1147,No,30-35,34,3_Medical,3,Medical,Rarely,2,Laboratory Technician,Research & Development,0,No,3,12,10228,628,82,8,2.8,2,4,3,1,4,3,Male,Married,Yes,2,2,6,3-5,4,Yes,1,3,2,Y,80,1,2068,0.193288835
+1148,No,30-35,31,3_Medical,3,Medical,Rarely,1,Laboratory Technician,Research & Development,1,No,3,12,16031,471,62,4,2.4,1,4,3,2,2,0,Female,Divorced,Yes,8,2,4,1-3,2,Yes,2,2,2,Y,80,1,1916,0.739860445
+1149,No,25-30,29,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,3,No,3,15,5598,1010,97,1,2.4,1,3,4,1,3,5,Female,Divorced,No,1,0,3,3-5,3,Yes,1,2,2,Y,80,1,1249,0.740786211
+1150,No,30-35,30,3_Life Sciences,3,Life Sciences,Rarely,2,Healthcare Representative,Research & Development,3,No,3,19,15830,288,99,2,2.6,3,2,4,1,3,3,Male,Married,No,1,0,11,10+,11,No,10,10,8,Y,80,1,117,0.753139097
+1151,No,35-40,38,3_Life Sciences,3,Life Sciences,Frequently,1,Research Scientist,Research & Development,3,No,3,11,15748,693,57,7,3.6,4,4,3,4,3,2,Male,Divorced,No,1,0,4,3-5,4,No,0,2,3,Y,80,1,1382,0.75375249
+1152,No,25-30,27,1_Life Sciences,1,Life Sciences,Frequently,2,Sales Executive,Sales,0,No,4,20,20392,793,43,2,2.8,4,1,4,2,3,3,Male,Single,Yes,3,2,8,5-8,6,No,0,2,0,Y,80,1,1371,0.613504322
+1153,No,50+,54,4_Life Sciences,4,Life Sciences,Frequently,2,Research Scientist,Research & Development,0,No,3,12,16885,928,31,20,3.2,4,3,3,4,2,4,Female,Single,Yes,3,16,20,3-5,4,No,0,3,3,Y,80,1,450,0.755880609
+1154,Yes,25-30,28,1_Life Sciences,1,Life Sciences,Rarely,1,Laboratory Technician,Research & Development,0,Yes,3,11,22955,1485,79,12,3.2,3,3,4,4,2,4,Female,Married,No,1,0,1,1-3,1,No,0,1,0,Y,80,1,1175,0.756397337
+1155,No,45-50,49,4_Medical,4,Medical,Rarely,2,Manufacturing Director,Research & Development,0,No,3,14,5549,470,96,20,2.4,3,3,1,3,2,2,Female,Married,Yes,1,1,16,10+,15,No,5,11,11,Y,80,1,170,0.016483803
+1156,No,50+,51,3_Medical,3,Medical,Rarely,4,Healthcare Representative,Research & Development,0,No,3,18,7192,313,98,3,3,4,3,2,3,3,6,Female,Single,Yes,3,14,21,5-8,7,Yes,1,7,0,Y,80,1,258,0.766895611
+1157,Yes,25-30,29,3_Medical,3,Medical,Rarely,1,Sales Representative,Sales,3,Yes,3,19,23522,341,48,1,2.6,2,2,3,3,3,3,Female,Divorced,Yes,6,2,5,3-5,3,No,0,2,2,Y,80,1,896,0.467731996
+1158,No,35-40,36,4_Other,4,Other,Rarely,2,Research Scientist,Research & Development,1,Yes,4,22,19573,430,73,2,3.2,4,3,2,4,3,2,Female,Married,Yes,4,14,15,1-3,1,No,0,0,0,Y,80,1,1847,0.767247028
+1159,No,25-30,27,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,1,No,3,13,7950,199,55,6,3,4,2,3,3,3,0,Male,Married,No,1,0,4,3-5,4,Yes,2,2,2,Y,80,1,1162,0.767933707
+1160,No,35-40,36,2_Medical,2,Medical,Rarely,2,Manufacturing Director,Research & Development,2,No,4,20,2819,216,84,6,2.8,2,3,2,4,3,0,Male,Divorced,Yes,6,4,7,3-5,3,No,0,2,1,Y,80,1,178,0.767989156
+1161,Yes,40-45,44,4_Life Sciences,4,Life Sciences,Rarely,1,Research Scientist,Research & Development,0,Yes,3,11,10826,1097,96,10,3,3,3,3,3,3,4,Male,Single,No,1,0,6,5-8,6,No,0,4,2,Y,80,1,1200,0.769021154
+1162,No,35-40,38,3_Life Sciences,3,Life Sciences,Rarely,3,Manufacturing Director,Research & Development,0,Yes,3,14,15397,168,81,1,3.4,3,3,3,4,4,4,Female,Single,Yes,4,9,10,1-3,1,No,0,0,0,Y,80,1,743,0.77282111
+1163,No,25-30,29,1_Medical,1,Medical,Frequently,1,Laboratory Technician,Research & Development,0,No,3,13,7003,574,40,20,3.4,4,3,4,2,4,3,Male,Married,No,1,0,11,10+,11,Yes,3,8,10,Y,80,1,1852,0.588527997
+1164,No,35-40,37,3_Technical Degree,3,Technical Degree,Rarely,3,Manufacturing Director,Research & Development,0,No,3,17,23848,799,59,1,3.4,2,3,4,4,4,3,Female,Single,Yes,4,6,12,5-8,6,Yes,1,5,2,Y,80,1,623,0.979401974
+1165,Yes,25-30,26,2_Medical,2,Medical,Frequently,1,Research Scientist,Research & Development,1,Yes,3,14,20898,887,88,5,2.4,3,2,3,1,3,2,Female,Married,No,1,0,8,8-10,8,Yes,1,7,7,Y,80,1,848,0.908111007
+1166,No,30-35,32,3_Other,3,Other,Frequently,1,Laboratory Technician,Research & Development,1,No,4,20,7331,116,77,13,2.6,3,2,2,3,3,2,Female,Married,No,1,0,2,1-3,2,Yes,2,2,2,Y,80,1,1234,0.783938785
+1167,No,40-45,40,4_Technical Degree,4,Technical Degree,Rarely,3,Healthcare Representative,Research & Development,1,No,4,20,26542,1492,61,20,3,1,3,4,4,3,6,Male,Married,Yes,4,3,14,10+,11,No,11,10,1,Y,80,1,1092,0.967566665
+1168,No,30-35,30,3_Technical Degree,3,Technical Degree,Rarely,2,Sales Executive,Sales,0,No,3,11,19558,1082,83,12,2.6,2,3,3,2,3,6,Female,Single,Yes,0,1,6,5-8,5,No,4,4,4,Y,80,1,533,0.117742347
+1169,No,25-30,27,4_Medical,4,Medical,Rarely,1,Research Scientist,Research & Development,2,No,3,12,5013,798,66,6,2.2,1,2,3,3,2,5,Female,Divorced,Yes,0,1,6,5-8,5,No,0,3,3,Y,80,1,655,0.752305567
+1170,No,35-40,37,3_Life Sciences,3,Life Sciences,Rarely,1,Research Scientist,Research & Development,1,Yes,3,12,22977,290,65,21,2,2,4,1,1,2,3,Male,Married,No,1,0,8,8-10,8,Yes,1,7,7,Y,80,1,267,0.789961515
